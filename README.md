@@ -1,2 +1,4 @@
-# disciplina_controle_em_tempo_real_com_dsp
-Projetos desenvolvidos durante a disciplina Controle em Tempo Real usando DSP, ofertada pelo Departamento de Engenharia Elétrica da Universidade Federal de Pernambuco
+Projeto de um controlador PI para fazer o controle em tempo real da temperatura de uma planta térmica usando um Processador Digital de Sinais (DSP)
+
+Software: Code Composer Studio
+Controlador: TMS320F28335 Experimenter Kit
